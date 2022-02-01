@@ -1,4 +1,4 @@
 FROM ubuntu
-MAINTAINER KLSDEVOPS
+MAINTAINER SURESH
 RUN yum update
 CMD [tomcat.sh]
